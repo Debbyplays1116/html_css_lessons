@@ -1,0 +1,19 @@
+
+        body{
+            background-color: rgb(255, 180, 239);
+             font-size: larger;
+            color: rgb(36, 3, 23);
+        
+        }
+        h1{
+            color: rgb(96, 5, 145);
+            background-color: rgb(247, 120, 230);
+            text-align: center;
+        }
+        .bg_cnt{
+            background-image: url(images/bg.jpg);
+            height: 25rem;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+        }
